@@ -1,4 +1,3 @@
 # readme.md
-New language used in drivers developed
 
-设计一款极简的脚本语言或者直接把lua\python移植到内核里
+这个github org存放一切跟编译器后端(llvm)有关的技术
